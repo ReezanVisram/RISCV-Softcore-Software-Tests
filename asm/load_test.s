@@ -6,3 +6,5 @@ _start:
   lh x4, 4(x0)
   lbu x5, 4(x0)
   lhu x6, 4(x0)
+  lui x7, 0x88
+  
